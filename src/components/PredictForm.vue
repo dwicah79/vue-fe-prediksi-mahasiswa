@@ -135,7 +135,7 @@ async function submitForm() {
           required
           class="w-full border rounded p-2"
         >
-          <option value="" disabled>Pilih Pekerjaan Ayah</option>
+          <option value="" disabled>Pilih Pekerjaan Ibu</option>
           <option value="PNS">PNS</option>
           <option value="Swasta">Swasta</option>
           <option value="Nelayan">Nelayan</option>
