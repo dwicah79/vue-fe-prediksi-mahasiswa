@@ -117,6 +117,8 @@ async function submitForm() {
         >
           <option value="" disabled>Pilih Pekerjaan Ayah</option>
           <option value="PNS">PNS</option>
+          <option value="Swasta">Swasta</option>
+          <option value="Nelayan">Nelayan</option>
           <option value="Wiraswasta">Wiraswasta</option>
           <option value="TNI/Polri">TNI/Polri</option>
           <option value="Petani">Petani</option>
@@ -133,11 +135,13 @@ async function submitForm() {
           required
           class="w-full border rounded p-2"
         >
-          <option value="" disabled>Pilih Pekerjaan Ibu</option>
-          <option value="Ibu Rumah Tangga">IRT</option>
+          <option value="" disabled>Pilih Pekerjaan Ayah</option>
           <option value="PNS">PNS</option>
+          <option value="Swasta">Swasta</option>
+          <option value="Nelayan">Nelayan</option>
           <option value="Wiraswasta">Wiraswasta</option>
-          <option value="Guru">Guru</option>
+          <option value="TNI/Polri">TNI/Polri</option>
+          <option value="Petani">Petani</option>
           <option value="Buruh">Buruh</option>
           <option value="Lain-lain">Lainnya</option>
         </select>
