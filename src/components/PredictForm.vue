@@ -122,7 +122,6 @@ async function submitForm() {
           <option value="Wiraswasta">Wiraswasta</option>
           <option value="TNI/POLRI">TNI/Polri</option>
           <option value="Tani">Petani</option>
-          <option value="Buruh">Buruh</option>
           <option value="Lain-lain">Lainnya</option>
         </select>
       </div>
