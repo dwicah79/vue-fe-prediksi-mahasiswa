@@ -137,7 +137,6 @@ async function submitForm() {
           <option value="" disabled>Pilih Pekerjaan Ibu</option>
           <option value="PNS">PNS</option>
           <option value="Swasta">Swasta</option>
-          <option value="Nelayan">Nelayan</option>
           <option value="Wiraswasta">Wiraswasta</option>
           <option value="TNI/POLRI">TNI/Polri</option>
           <option value="Tani">Petani</option>
