@@ -120,7 +120,7 @@ async function submitForm() {
           <option value="Swasta">Swasta</option>
           <option value="Nelayan">Nelayan</option>
           <option value="Wiraswasta">Wiraswasta</option>
-          <option value="TNI/Polri">TNI/Polri</option>
+          <option value="TNI/POLRI">TNI/Polri</option>
           <option value="Tani">Petani</option>
           <option value="Buruh">Buruh</option>
           <option value="Lain-lain">Lainnya</option>
@@ -140,7 +140,7 @@ async function submitForm() {
           <option value="Swasta">Swasta</option>
           <option value="Nelayan">Nelayan</option>
           <option value="Wiraswasta">Wiraswasta</option>
-          <option value="TNI/Polri">TNI/Polri</option>
+          <option value="TNI/POLRI">TNI/Polri</option>
           <option value="Tani">Petani</option>
           <option value="Ibu Rumah Tangga">Ibu Rumah Tangga</option>
           <option value="Lain-lain">Lainnya</option>
