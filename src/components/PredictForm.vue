@@ -17,7 +17,7 @@ async function fetchPrediction() {
   formData.append('file', file.value)
 
   try {
-    const response = await fetch(`http://127.0.0.1:8000/predict_excel?page=${page.value}&per_page=50`, {
+    const response = await fetch(`https://skrisi-be-production.up.railway.app/predict_excel?page=${page.value}&per_page=50`, {
       method: 'POST',
       body: formData,
     })
